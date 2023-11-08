@@ -10,3 +10,7 @@ Auf Wise ist es nämlich nicht möglich CHF Daueraufträge zu erstellen.
 - Im ersten Teil des Scriptes die Variablen entsprechend den eigenen Bedürfnissen anpassen. Dazu Kommentare im Script beachten.
 - Script ausführbar machen -> `chmod +x`
 - Ausführen und Betrag mitgeben: `.wiseTransaction.sh 2000` -> Erstellt einen 2000 CHF Auftrag.
+
+## Vorraussetzung
+- Linux System (keine Ahnung ob das auch mit Windows laufen würde)
+- `curl`, `jq` JSON Processing müssen installiert sein.
