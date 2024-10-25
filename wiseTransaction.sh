@@ -11,7 +11,7 @@ recipientIBAN="DE123456789123456789"
 recipientCurrency="EUR"
 # Währung Quellkonto (ISO Bezeichnung)
 sourceCurrency="CHF"
-# Überweisungsbetrag (In der Währung des Quellkonto)
+# Überweisungsbetrag (In der Währung des Quellkonto) -> Kann hier fix eigetragen werden. Als Standard lässt sich der Betrag als Option dem Script übergeben
 amount=$1
 # Verwendungszweck
 reference="Dauerauftrag in höhe von (${amount} CHF)"
