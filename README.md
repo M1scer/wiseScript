@@ -13,4 +13,4 @@ Auf Wise ist es nämlich nicht möglich CHF Daueraufträge zu erstellen.
 
 ## Vorraussetzung
 - Linux System (keine Ahnung ob das auch mit Windows laufen würde)
-- `curl`, `jq`, `uuid-runtime` JSON Processing müssen installiert sein.
+- `curl`, `jq`, `uuid-runtime` müssen installiert sein.
