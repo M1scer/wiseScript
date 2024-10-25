@@ -1,3 +1,5 @@
+# Wise unterstützt inzwischen Daueraufträge von CHF nach EUR. Script wird daher nicht mehr benötigt.
+
 # wiseScript
 Script um eine Transaktion über die Wise API auszuführen.
 
