@@ -14,7 +14,7 @@ sourceCurrency="CHF"
 # Überweisungsbetrag (In der Währung des Quellkonto) -> Kann hier fix eigetragen werden. Als Standard lässt sich der Betrag als Option dem Script übergeben
 amount=$1
 # Verwendungszweck
-reference="Dauerauftrag in höhe von (${amount} CHF)"
+reference="Dauerauftrag (${amount} CHF)"
 
 ########### Eigene ID auslesen ##############
 # Befehl abschicken
